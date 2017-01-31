@@ -8,7 +8,7 @@
 * */
 public class Palindrome {
     public static void main(String[] args) {
-        int input = 1000000;
+        int input = 1000000000;
 
         System.out.println(getResult(input));
     }
